@@ -1,0 +1,6 @@
+# Un control de versiones es algo fundamental a la hora de desarrollar, tanto 
+# para un equipo de desarrollo como para un programador individual. 
+# Aquí vamos a realizar un pequeño análisis y una pequeña introducción a uno de los controles de versiones
+ # más populares que existen en la actualidad. El guión es el siguiente:
+
+# 1. Capítulo 1: INTRODUCCIÓN
